@@ -1,4 +1,4 @@
-aplikasi pengaduan masyarakat ukk 2020 RPL
+aplikasi pengaduan masyarakat Kominfo 2020
 
 dibangun dengan 
  - framework codeigniter 
